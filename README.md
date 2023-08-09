@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hamdy-ibrahim-195138218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamdy-ibrahim-195138218" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamdy-ibrahim-farouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamdy-ibrahim-195138218" height="30" width="40" /></a>
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -25,7 +25,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hamdy-ibrahim-195138218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hamdy%20%20ibrahim-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hamdy-ibrahim-farouk/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hamdy%20%20ibrahim-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:hamdyfarouk444@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hamdyfarouk444@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
