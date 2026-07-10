@@ -8,8 +8,9 @@
 
 ---
 
-### 🌐 **Portfolio**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/HamdyIIbrahim).
+### 🌐 **Portfolio & Projects**
+- 🌍 Check out my live [Portfolio Website](https://hamdy-ibrahim.vercel.app/).
+- 👨‍💻 All of my code and projects are available on [GitHub](https://github.com/HamdyIIbrahim).
 
 ---
 
